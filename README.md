@@ -1,0 +1,2 @@
+# BagdeExpertoFonetica
+Badge Portugués
